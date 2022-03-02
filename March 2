@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color: red;">Hi I'm Kristen</h1>
+<p>Welcome to my html practice site. Stay to learn more useless Kristen facts.</p>
+<b>Basic information to know:</b>
+<ul>
+	<li>born in 2001</li>
+	<li>brown hair, blue eyes, 5'2"</li>
+	<li>the world's quietest vocal music major</li>
+<ul>
+
+<h3> Let's play a game</h3>
+<form>
+	<fieldset>
+     <legend>Which of these isn't true?</legend>
+     
+     <input type="radio" id="SCUBA">
+     <label for="SCUBA">Kristen is a certified SCUBA diver</label><br/>
+     
+     <input type ="radio" id="plane">
+     <label for="plane">Kristen has flown and landed a plane</label><br/>
+     
+     <input type="radio" id="Queen">
+     <label for="Queen">Kristen has seen the Queen of England in person</label><br/>
+     
+     <input type="radio" id="vatican">
+     <label for="vatican">Kristen once sang in the Vatican</label><br/>
+     
+    </fieldset>
+</form>
+<dd>
+	<i>If you selected any of these you're wrong. These all actually happened. </i>
+</dd>
+
+<h2>I really, really like concerts and I've been to a lot of them</h2>
+<details>
+	<summary>Including but not limited to:</summary>
+    Ateez, Oneus, twenty one pilots, Panic at the Disco, Fall Out Boy, All Time Low, Hozier, and online pandemic concerts
+</details>
+
+<p>Do online concerts count?</p>
+<button class="favorite styled"
+		type="button">
+     Obviously
+</button>
+
+<p>Here's a song I listen to a lot. Since I know a lot about music, here are some genres of music that are good good and not as good:</p>
+<table>
+	<thead>
+    	<tr>
+        	<th>Good</th>
+            <th scope="col">Not as good</th>
+        </tr>
+   </thead>
+   <tbody>
+   	<tr>
+    	<th scope="row">
+            
+        	
+
+</body>
+</html>
