@@ -118,10 +118,10 @@
        low="33" high="66" optimum="80"
        value="25">
     at 25/100
-
+</meter>
 <hr>
 
-<h1>We're almost done! Here's a poem before you go<h1>
+<h1>We're almost done! Here's a poem before you go</h1>
 
 <figure>
     <blockquote cite="https://discoverpoetry.com/poems/poems-about-endings/">
@@ -143,3 +143,4 @@ Still it be unfurled.</p>
 
 </body>
 </html>
+
