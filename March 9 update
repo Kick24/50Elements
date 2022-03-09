@@ -1,0 +1,145 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color: red;">Hi I'm Kristen</h1>
+<p>Welcome to my html practice site. Stay to learn more useless Kristen facts.</p>
+<img class="fit-picture"
+     src="https://scontent-dfw5-1.xx.fbcdn.net/v/t39.30808-6/259741564_440138507634368_8063576205179789899_n.jpg?stp=dst-jpg_s600x600&_nc_cat=110&ccb=1-5&_nc_sid=730e14&_nc_ohc=xiuzfVqyb8AAX-mvQrc&_nc_ht=scontent-dfw5-1.xx&oh=00_AT_0DaZK-DeSndSi-sLXo8P35tj9mN50DwRlCvtxj7CPmQ&oe=6224A9C8"
+     alt="Junior recital picture"><br>
+     <caption><i>(I'm the one on the far right)</i></caption><br>
+<figure>
+    <figcaption>Some Debussy to listen to while you scroll:</figcaption>
+    <audio
+        controls
+        src="http://www.mp3classicalmusic.net/48Music/Debussy48/Valseromantique.mp3">
+            Your browser does not support the
+            <code>audio</code> element.
+    </audio>
+</figure>
+
+
+<h2>Basic information to know:</h2>
+<ul>
+	<li>born in 2001</li>
+	<li>brown hair, blue eyes, 5'2"</li>
+	<li>the world's quietest vocal music major</li>
+    <li>likes weird quirky animals, like alolotls</li>
+<ul>
+
+<video controls width="250">
+
+    <source src="https://www.youtube.com/watch?v=ANk3_wgMqFQ"
+            type="video/webm">
+
+    Sorry, your browser doesn't support embedded videos.
+</video>
+
+
+<h3> Let's play a game</h3>
+<form>
+	<fieldset>
+     <legend>Which of these isn't true?</legend>
+     
+     <input type="radio" id="SCUBA">
+     <label for="SCUBA">Kristen is a certified SCUBA diver</label><br/>
+     
+     <input type ="radio" id="plane">
+     <label for="plane">Kristen has flown and landed a plane</label><br/>
+     
+     <input type="radio" id="Queen">
+     <label for="Queen">Kristen has seen the Queen of England in person</label><br/>
+     
+     <input type="radio" id="vatican">
+     <label for="vatican">Kristen once sang in the Vatican</label><br/>
+     
+    </fieldset>
+</form>
+<dd>
+	<i>If you selected any of these you're wrong. These all actually happened. </i>
+</dd>
+
+<h2>I really, <em>really</em> like concerts and I've been to a lot of them</h2>
+<details>
+	<summary>Including but not limited to:</summary>
+    Ateez, Oneus, twenty one pilots, Panic at the Disco, Fall Out Boy, All Time Low, Hozier, and online pandemic concerts including Ateez (again), BTS, and NCT
+</details>
+
+<p>Do online concerts count?</p>
+<button class="favorite styled"
+		type="button">
+     Obviously
+</button>
+
+<p>Since I know a lot about music, here are some genres of music that are good good and not as good:</p>
+<table>
+	<thead>
+    	<tr>
+        	<th>Not Good</th>
+            <th scope="col">Good</th>
+        </tr>
+   </thead>
+   <tbody>
+   	<tr>
+    	<td scope="row">Country</td>
+        <td>Anything else</td>
+     </tr>
+   </tbody>
+</table>
+
+<hr>
+
+ <b>I do have interests outside of music</b>
+ <ol>
+     <li>French baking</li>
+     <li>True crime</li>
+     <li>Dancing</li>
+     <li>Listeing to podcasts</li>
+     <li>Learning about extremely specific historical events</li>
+<ol>
+
+<h4>Ingredients you need to make good bread</h4>
+
+<ul>
+    <li>Flour</li>
+    <li>Water</li>
+    <li>Yeast</li>
+    <li>Sugar</li>
+    <li>Salt</li>
+    <li>Oil</li>     
+</ul>
+
+<hr>
+
+<label for="tired">My energy after all this coding:</label>
+
+<meter id="tired"
+       min="0" max="100"
+       low="33" high="66" optimum="80"
+       value="25">
+    at 25/100
+
+<hr>
+
+<h1>We're almost done! Here's a poem before you go<h1>
+
+<figure>
+    <blockquote cite="https://discoverpoetry.com/poems/poems-about-endings/">
+        <p>
+That is solemn we have ended, —
+Be it but a play,
+Or a glee among the garrets,
+Or a holiday,
+
+Or a leaving home; or later,
+Parting with a world
+We have understood, for better
+Still it be unfurled.</p>
+    </blockquote>
+    <figcaption>—Emily Dickinson, <cite>Ending</cite></figcaption>
+</figure>
+
+</meter>
+
+</body>
+</html>
